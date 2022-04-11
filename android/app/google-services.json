@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "350741510250",
+    "project_id": "autoponia-b5151",
+    "storage_bucket": "autoponia-b5151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350741510250:android:1051e8f6c652c4bac1f213",
+        "android_client_info": {
+          "package_name": "com.ava.autoponia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350741510250-ugav1n3mjqmf1aan40gf0jpon9f5it2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ava.autoponia",
+            "certificate_hash": "dc891c8e8b2284a7908788a23b8e4fe3ea7a45e1"
+          }
+        },
+        {
+          "client_id": "350741510250-t78jco4a6mo2htd7cmpj26dv0g49c4si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqwBEl6Ks9cKhHnGE5Kqju7MgNOwL02-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350741510250-t78jco4a6mo2htd7cmpj26dv0g49c4si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
